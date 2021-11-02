@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-backend-header',
+  selector: 'backend-header',
   templateUrl: './backend-header.component.html',
   styleUrls: ['./backend-header.component.scss']
 })
